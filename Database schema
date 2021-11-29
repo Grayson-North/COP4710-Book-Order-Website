@@ -1,0 +1,14 @@
+Users (UserID (PK), Email, Password, First Name, Last Name, Admin * )
+Books (BookID (PK), ISBN, book title, author names, edition, publisher)
+Requests (RequestID (PK), UserID, Semester**)
+Request_Book( RequestID , BookID, Quantity) PK (Request ID, BookID)
+
+-PK : Primary key
+*Admin: Boolean type, True: admin staff, False: Professor
+Supper Admin is who creates database, system. Do not need to store it in User table. 
+
+**Semester: Varchar 20 (no need to be DATE type)
+
+
+
+

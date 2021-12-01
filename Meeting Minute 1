@@ -1,0 +1,12 @@
+Project functions: 
+  Front end: 
+    1. Login (Ross): Sign up, Sign In, Forgot Pwd
+    2. Home Page (Grayson): Vew/Edit existing Requests
+    3. Submit new request (Grayson)
+  Back end: 
+    4. User Management (Grayson): Add, edit, delete, send temp password
+    5. Email (NguyenDo): Sent emails invitation batch, send remider batch/invidually
+    6. Book request list (Grayson)
+    7. Fnalize book request list (Nguyen Do)
+ Project Report: (Ross)
+        
